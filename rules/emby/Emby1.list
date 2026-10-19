@@ -1,0 +1,31 @@
+# NAME: Emby直连规则
+# AUTHOR: mirai
+# UPDATED: 2026.08.05 02:08:26
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 16
+DOMAIN-SUFFIX,longemby.com
+DOMAIN-SUFFIX,longemby.top
+DOMAIN-SUFFIX,stream-gomami-hk.longemby.top
+DOMAIN-SUFFIX,pkstream-hk.longemby.top
+DOMAIN-SUFFIX,stream-phoenix.longemby.top
+DOMAIN-SUFFIX,stream-gomami2-hk.longemby.top
+DOMAIN-SUFFIX,hkcdn.longemby.com
+DOMAIN-SUFFIX,veilx.longemby.com
+DOMAIN-SUFFIX,stream-phoenix.longemby.live
+DOMAIN-SUFFIX,stream-gomami-hk.longemby.live
+DOMAIN-SUFFIX,stream-gomami2-hk.longemby.live
+DOMAIN-SUFFIX,1851836760.cdn.123clouddisk.com
+DOMAIN-SUFFIX,junyue.store
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115vod.com
+DOMAIN,mwyy.woofle.space
+DOMAIN,user.woofle.space
+DOMAIN,danmu.woofle.space
+DOMAIN-SUFFIX,lukar.ccwu.cc
+DOMAIN-SUFFIX,emos.club
+DOMAIN-SUFFIX,younoyes.com
+DOMAIN-SUFFIX,huangmin.cc.cd
+DOMAIN,rex.fwd.ccwu.cc
+DOMAIN-SUFFIX,cfcdn.longemby.com
