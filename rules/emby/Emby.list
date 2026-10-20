@@ -5,7 +5,6 @@
 # TOTAL: 190
 
 # ======= Emby同步规则 ========
-DOMAIN-SUFFIX,dqx99999.shop
 DOMAIN-SUFFIX,cfcdn.longemby.com
 DOMAIN-SUFFIX,longemby.live
 DOMAIN-SUFFIX,stream-1.miraiemby.com
